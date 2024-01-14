@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India's Beauty</title>
+</head>
+<body>
+    <h2>Stock footage</h2>
+    <video src="production_id_4685716 (1080p).mp4" height="255" controls></video>
+    <video src="pexels-shalender-kumar-6583231-original_alN01PFm.mp4" height="255" controls></video>
+    <video src="pexels-manik-sharma-8939599 (Original).mp4" height="255" controls> </video>
+    <video src="pexels-gautam-borborah-17407831 (1080p).mp4" height="255"width="455" controls></video>
+    <video src="pexels-nitin-khajotia-19096558-original_O07zCjqX.mp4" height="255" controls></video>
+    <br>
+    <audio src="footsteps-in-water-nature-sounds-8185.mp3" controls></audio>
+    <audio src="heavy-rain-nature-sounds-8186.mp3"controls></audio>
+    <audio src="birds-singing-calm-river-nature-ambient-sound-127411.mp3"controls></audio>
+    <audio src="nature-soundstropicaljunglebirds-108380.mp3"controls></audio>
+    <audio src="rain-in-forest-birds-nature-111405.mp3"controls></audio>
+</body>
+</html>
