@@ -7,16 +7,18 @@
 </head>
 <body>
     <h2>Stock footage</h2>
-    <video src="production_id_4685716 (1080p).mp4" height="255" controls></video>
-    <video src="pexels-shalender-kumar-6583231-original_alN01PFm.mp4" height="255" controls></video>
-    <video src="pexels-manik-sharma-8939599 (Original).mp4" height="255" controls> </video>
-    <video src="pexels-gautam-borborah-17407831 (1080p).mp4" height="255"width="455" controls></video>
-    <video src="pexels-nitin-khajotia-19096558-original_O07zCjqX.mp4" height="255" controls></video>
+    <video src="pexels-jesse-hunter-19553061 (1080p).mp4" height="1080" controls></video>
+    <video src="pexels-kateryna-hnidash-7675201 (2160p) (1)" height="3840" controls></video>
+    <video src="pexels-polina-kovaleva-7270299 (Original).mp4" height="3840" controls> </video>
+    <video src="pexels-rafael-fernanz-19193136 (2160p) (1).mp4" height="3840" controls></video>
+    <video src="pexels-ron-lach-10553954 (2160p) (1).mp4" height="4096" controls></video>
+    <video src="pexels-vikash-singh-19022224 (2160p) (1).mp4" height="2160" controls></video>
     <br>
-    <audio src="footsteps-in-water-nature-sounds-8185.mp3" controls></audio>
-    <audio src="heavy-rain-nature-sounds-8186.mp3"controls></audio>
-    <audio src="birds-singing-calm-river-nature-ambient-sound-127411.mp3"controls></audio>
-    <audio src="nature-soundstropicaljunglebirds-108380.mp3"controls></audio>
-    <audio src="rain-in-forest-birds-nature-111405.mp3"controls></audio>
+    <audio src="baby-mandala-169039" controls></audio>
+    <audio src="drive-breakbeat-173062.mp3"controls></audio>
+    <audio src="glossy-168156.mp3"controls></audio>
+    <audio src="once-in-paris-168895.mp3"controls></audio>
+    <audio src="titanium-170190.mp3"controls></audio>
+    <audio src="science-documentary-169621.mp3"controls></audio>
 </body>
 </html>
